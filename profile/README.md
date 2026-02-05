@@ -1,0 +1,3 @@
+# [Future Skills Fund](https://futureskills.jo/)
+
+Future Skills Fund, aims to establish a revolving fund to financially support youth in Jordan who wish to pursue TVET education but lack financial resources. The financial support of students will be through Income Share Agreements (ISA) whereby beneficiaries commit to paying a percentage of their salaries after employment begins, up to the total amount of the initial financial support only, with no added interest or fees. In addition to financial support, the Fund offers training such as career counseling, job matching, and skills training (soft skills, IT, and language skills) to help beneficiaries secure and retain employment.
